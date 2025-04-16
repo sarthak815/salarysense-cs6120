@@ -14,6 +14,16 @@ The repository contains two Jupyter notebooks analyzing different job posting da
 1. `salary_prediction_linkedin.ipynb` - Analyzes LinkedIn job postings data
 2. `salary_prediction_glassdoor.ipynb` - Analyzes Glassdoor job postings data
 
+## Datasets
+
+### [LinkedIn Job Postings Dataset](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings)
+
+This dataset includes around 75,000 job listings from various industries and locations, with about 21,000 listings containing clear salary information. Each posting offers a detailed job description, title, and list of requirements. This rich and diverse text data lets us examine how the specifics in job descriptions correlate with the salaries offered. By focusing on real, detailed examples, this dataset provides a strong foundation for improving salary predictions beyond just using job titles and years of experience.
+
+### [Glassdoor Job Dataset](https://www.kaggle.com/datasets/thedevastator/jobs-dataset-from-glassdoor)
+
+The Glassdoor dataset, collected in 2017, offers historical job market data along with detailed job descriptions. Although it is a bit older, adjusting the salary figures for inflation makes the data relevant today. This dataset adds another layer of insight into salary benchmarks and job description quality over time. Using both current and historical data helps us build a model that understands trends and changes in the job market, making our predictions more robust and reliable.
+
 ## Key Features
 
 - **Text Processing**: Advanced TF-IDF vectorization of job descriptions and titles
