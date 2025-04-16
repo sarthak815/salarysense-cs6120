@@ -1,4 +1,4 @@
-# SalrySense: Salary Prediction Machine Learning Project
+# SalarySense: Experimenting with NLP Embeddings to Predict Pay Rates from Job Descriptions
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0.2-orange.svg)](https://scikit-learn.org/stable/)
